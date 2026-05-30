@@ -237,19 +237,3 @@ Use agents when ambiguity, generalization, and language understanding are actual
 The teams getting the most value from AI agents right now are not the ones deploying agents most aggressively. They're the ones who deployed agents in the right places, understood why they were doing it, and built the governance infrastructure to know when things go wrong.
 
 Explore how [Omnithium](https://omnithium.ai) helps teams deploy AI agents with the governance and observability needed to match the right tool to the right job. See [Omnithium pricing](https://omnithium.ai/pricing) or browse our [resources](https://omnithium.ai/resources) for more frameworks like this.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/when-not-to-use-ai-agents).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
